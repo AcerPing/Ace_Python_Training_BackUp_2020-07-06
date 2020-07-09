@@ -9,3 +9,6 @@ print("slope",Result)
 import module.point
 RESULT=module.point.length(a=2,b=3)
 print("length",RESULT)
+
+
+print("123")
