@@ -1,0 +1,113 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "薛寶釵款",
+  "chatBarText": "雪裡金釵",
+  "areas": [
+    {
+      "bounds": {
+        "x": 99,
+        "y": 153,
+        "width": 672,
+        "height": 210
+      },
+      "action": {
+        "type": "postback",
+        "text": "想知道AI的戰略價值",
+        "data": "folder=才德兩全&tag=ai"
+      }
+    },
+    {
+      "bounds": {
+        "x": 91,
+        "y": 408,
+        "width": 685,
+        "height": 182
+      },
+      "action": {
+        "type": "postback",
+        "text": "想知道區塊鏈的戰略價值",
+        "data": "folder=埋金掛玉&tag=blockchain"
+      }
+    },
+    {
+      "bounds": {
+        "x": 99,
+        "y": 635,
+        "width": 664,
+        "height": 178
+      },
+      "action": {
+        "type": "postback",
+        "text": "想知道雲服務的戰略價值",
+        "data": "folder=冷香熱藏&tag=cloud"
+      }
+    },
+    {
+      "bounds": {
+        "x": 107,
+        "y": 850,
+        "width": 656,
+        "height": 190
+      },
+      "action": {
+        "type": "postback",
+        "text": "產品快速導入的訣竅",
+        "data": "folder=藏愚守拙&tag=devops"
+      }
+    },
+    {
+      "bounds": {
+        "x": 103,
+        "y": 1081,
+        "width": 656,
+        "height": 194
+      },
+      "action": {
+        "type": "postback",
+        "text": "點擊旁邊連結 line://ti/p/@gby2522m 進行聯絡",
+        "data": "folder=金陵四家&tag=contact"
+      }
+    },
+    {
+      "bounds": {
+        "x": 103,
+        "y": 1316,
+        "width": 1176,
+        "height": 186
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://www.youtube.com/channel/UC3Gi7RVF6-rY2JBbfvMV9yA"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1366,
+        "y": 29,
+        "width": 1056,
+        "height": 1246
+      },
+      "action": {
+        "type": "message",
+        "text": "才人贊善"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1361,
+        "y": 1320,
+        "width": 1056,
+        "height": 252
+      },
+      "action": {
+        "type": "postback",
+        "text": "切換分頁",
+        "data": "tag=change_menu"
+      }
+    }
+  ]
+}
